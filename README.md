@@ -1,8 +1,7 @@
-# pohyb je nutný
+# posun je nutný
 Pro spuštění programu je nutné nainstalovat **Python** a doplněk **pyautogui**
 
-Stažení [Python](https://www.python.org/downloads/)
-Instalaci lze ponechat ve výchozím nastavení.
+Stažení [Python](https://www.python.org/downloads/) - instalaci lze ponechat ve výchozím nastavení.
 
 Pokud je vše správně nainstalováno, lze ověřit spuštěním cmd.exe a příkazem:
 
