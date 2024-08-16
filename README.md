@@ -43,11 +43,15 @@ Poté lze spustit program pomocí START.bat
 
 Slouží pro spouštění skriptu bez nutnosti spouštění příkazového řádku a volání příslušného příkazu spuštění skriptu.
 
+
+
 - **config.ini**
 
 Slouží pro konfiguraci cesty ke složce na počítači a název skriptu, který má být spuštěn.
 
 **!! Po stažení je nutné nastavit správnou cestu ve vašem počítači !!**
+
+
 
 - **main.py**
 
