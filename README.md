@@ -25,7 +25,7 @@ Při spouštění stažení a instalace **pyautogui** v cmd.exe, je nutné mít 
 
 Pokud jsou k dispozici **Admin práva** a **neblokované síťové připojení**, postupujte následovně:
 
-#### Python
+### Python
 
 Stažení [Python](https://www.python.org/downloads/) - instalaci lze ponechat ve výchozím nastavení.
 
@@ -33,13 +33,17 @@ Pokud je vše správně nainstalováno, lze ověřit spuštěním cmd.exe a př�
 
 >python --version
 
-#### pyautogui
+Výstup z příkazového řádku by měl vypadat následovně (nezáleží na konkrétní verzi):
+
+![Python verze](/assets/Python_verze.png "Python verze")
+
+### pyautogui
 
 **pyautogui** se stáhne a nainstaluje příkazem:
 
 >pip install pyautogui
 
-Poté lze spustit program pomocí START.bat
+Po úspěšném stažení a instalaci lze spustit program pomocí START.bat
 
 ## Přehled programu
 
