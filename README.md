@@ -2,7 +2,14 @@
 
 Po spuštění pohybuje kurzorem myši a periodicky stlačuje klávesu (shift), což zamezí úspání systému a vypnutí obrazovky.
 
-## Požadavky
+## Stručný seznam požadavků
+
+- **Python**
+- **pyautogui**
+- **Admin práva**
+- **Povolit síťové připojení**
+
+## Popis požadavků
 
 Pro spuštění programu je nutné nainstalovat **Python** a doplněk **pyautogui**.
 
@@ -13,12 +20,6 @@ Pro spuštění programu je nutné nainstalovat **Python** a doplněk **pyautogu
 Pokud se jedná o firemní počítač je nutné získat **Admin práva**, aby bylo možné spustit instalační soubor pro Python.
 
 Při spouštění stažení a instalace **pyautogui** v cmd.exe, je nutné mít **neblokovaný síťový přístup**. Je vhodné využít vlastního mobilního hotspotu nebo domácího připojení pro obejití těchto síťových omezení ve firemní síti.
-
-### Stručný seznam požadavků
-- **Python**
-- **pyautogui**
-- **Admin práva**
-- **Povolit síťové připojení**
 
 ## Návod INSTALACE
 
