@@ -49,7 +49,7 @@ Výstup z příkazového řádku by měl vypadat následovně (nezáleží na ko
 
 ### 3. program
 
-Program lze stáhnout jako .zip nebo pomocí gitu. Umístěte jej do libovolné složky na disku a podle umístění zadejte vaši cestu k souboru do souboru config.ini.
+Program lze stáhnout jako .zip nebo pomocí gitu. Umístěte jej do libovolné složky na disku a podle umístění zadejte vaši cestu k programu do konfiguračního souboru config.ini.
 
 Po úspěšném stažení a instalaci lze spustit program pomocí START.bat.
 
