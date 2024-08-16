@@ -1,7 +1,9 @@
 # posun je nutný
+
 Po spuštění pohybuje kurzorem myši a periodicky stlačuje klávesu (shift), což zamezí úspání systému a vypnutí obrazovky.
 
 ## Požadavky
+
 Pro spuštění programu je nutné nainstalovat **Python** a doplněk **pyautogui**.
 
  **Python** poskytuje programovací jazykovou sadu pro spouštění a interpretaci Python skriptů s koncovkou .py.
@@ -19,6 +21,7 @@ Při spouštění stažení a instalace **pyautogui** v cmd.exe, je nutné mít 
 - **Povolit síťové připojení**
 
 ## Návod INSTALACE
+
 Pokud jsou k dispozici **Admin práva** a **neblokované síťové připojení**, postupujte následovně:
 
 #### Python
@@ -41,18 +44,14 @@ Poté lze spustit program pomocí START.bat
 
 - **START.bat**
 
-Slouží pro spouštění skriptu bez nutnosti spouštění příkazového řádku a volání příslušného příkazu spuštění skriptu.
-
-
+>Slouží pro spouštění skriptu bez nutnosti spouštění příkazového řádku a volání příslušného příkazu spuštění skriptu.
 
 - **config.ini**
 
-Slouží pro konfiguraci cesty ke složce na počítači a název skriptu, který má být spuštěn.
-
-**!! Po stažení je nutné nastavit správnou cestu ve vašem počítači !!**
-
-
+>Slouží pro konfiguraci cesty ke složce na počítači a název skriptu, který má být spuštěn.
+>
+>**!! Po stažení je nutné nastavit správnou cestu ve vašem počítači !!**
 
 - **main.py**
 
-Obsahuje kód skriptu, který se spouští.
+>Obsahuje kód skriptu, který se spouští.
