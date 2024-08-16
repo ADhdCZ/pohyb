@@ -1,4 +1,4 @@
-# posun je nutný
+# POSUN je nutný
 
 Po spuštění pohybuje kurzorem myši a periodicky stlačuje klávesu (shift), což zamezí úspání systému a vypnutí obrazovky.
 
