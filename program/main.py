@@ -28,15 +28,15 @@ def move_mouse_and_press_key():
 
 messages = [
     "System initializing...",
+    "User authenticated.",
     "Loading modules...",
     "Connecting to mainframe...",
     "Decrypting data...",
     "Transmission received.",
     "Hacking the mainframe...",
-    "User authenticated.",
-    "Rebooting system...",
     "Encrypting data...",
     "Posun running..."
+    "Rebooting system...",
 ]
 
 message_cycle = itertools.cycle(messages)
