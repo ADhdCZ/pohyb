@@ -25,7 +25,7 @@ Při spouštění stažení a instalace **pyautogui** v cmd.exe, je nutné mít 
 
 Pokud jsou k dispozici **Admin práva** a **neblokované síťové připojení**, postupujte následovně:
 
-### Python
+### 1. Python
 
 Stažení [Python](https://www.python.org/downloads/) - instalaci lze ponechat ve výchozím nastavení.
 
@@ -37,19 +37,27 @@ Výstup z příkazového řádku by měl vypadat následovně (nezáleží na ko
 
 ![Python verze](/assets/Python_verze.png "Python verze")
 
-### pyautogui
+### 2. pyautogui
 
 **pyautogui** se stáhne a nainstaluje příkazem:
 
 >pip install pyautogui
 
-Po úspěšném stažení a instalaci lze spustit program pomocí START.bat
+Úspěšná instalace vypadá následovně:
+
+![Instalace pyautogui](/assets/Python_pyautogui.png "Instalace pyautogui")
+
+### 3. program
+
+Program lze stáhnout jako .zip nebo pomocí gitu. Umístěte jej do libovolné složky na disku a podle umístění zadejte vaši cestu k souboru do souboru config.ini.
+
+Po úspěšném stažení a instalaci lze spustit program pomocí START.bat.
 
 ## Přehled programu
 
 - **START.bat**
 
->Slouží pro spouštění skriptu bez nutnosti spouštění příkazového řádku a volání příslušného příkazu spuštění skriptu.
+>Slouží pro spouštění skriptu bez nutnosti spouštění příkazového řádku a volání příslušného příkazu spuštění skriptu. Zkratkou Ctrl+C se skript vypne.
 
 - **config.ini**
 
@@ -59,4 +67,4 @@ Po úspěšném stažení a instalaci lze spustit program pomocí START.bat
 
 - **main.py**
 
->Obsahuje kód skriptu, který se spouští.
+>Obsahuje kód skriptu, který se spouští. Zkratkou Ctrl+C se skript vypne.
