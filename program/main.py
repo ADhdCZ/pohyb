@@ -35,8 +35,8 @@ messages = [
     "Transmission received.",
     "Hacking the mainframe...",
     "Encrypting data...",
-    "Posun running..."
-    "Rebooting system...",
+    "Posun running...",
+    "Rebooting system..."
 ]
 
 message_cycle = itertools.cycle(messages)
