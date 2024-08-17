@@ -73,7 +73,7 @@ Po úspěšném stažení, instalaci a konfiguraci cesty lze spustit program pom
 
 >Spustí skript.
 >
->Slouží pro spouštění skriptu bez nutnosti spouštění příkazového řádku a volání příslušného příkazu spuštění skriptu. Zkratkou Ctrl+C se skript vypne.
+>Zkratkou Ctrl+C se skript vypne.
 
 - **config.ini**
 
@@ -83,4 +83,4 @@ Po úspěšném stažení, instalaci a konfiguraci cesty lze spustit program pom
 
 - **main.py**
 
->Obsahuje kód skriptu, který se spouští. Zkratkou Ctrl+C se skript vypne.
+>Obsahuje kód skriptu.
