@@ -59,6 +59,8 @@ Chcete-li ve Windows vybrat cestu ke složce, postupujte následovně:
 >
 >Klikněte do adresního řádku: Klikněte do adresního řádku v horní části okna, kde se zobrazuje cesta ke složce. Celá cesta se automaticky označí.
 >
+>![adresa](/assets/adresa.png "adresa")
+>
 >Zkopírujte cestu: Stiskněte Ctrl+C nebo pravým tlačítkem myši vyberte možnost „Kopírovat“.
 >
 >Vložte cestu: Nyní můžete cestu vložit tam, kde je potřeba, například do konfiguračního souboru, pomocí Ctrl+V.
