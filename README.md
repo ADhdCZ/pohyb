@@ -71,6 +71,8 @@ Po úspěšném stažení, instalaci a konfiguraci cesty lze spustit program pom
 
 - **START.bat**
 
+>Spustí skript.
+>
 >Slouží pro spouštění skriptu bez nutnosti spouštění příkazového řádku a volání příslušného příkazu spuštění skriptu. Zkratkou Ctrl+C se skript vypne.
 
 - **config.ini**
