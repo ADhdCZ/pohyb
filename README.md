@@ -65,7 +65,7 @@ Chcete-li ve Windows vybrat cestu ke složce, postupujte následovně:
 >
 >Vložte cestu: Nyní můžete cestu vložit tam, kde je potřeba, například do konfiguračního souboru, pomocí Ctrl+V.
 
-Po úspěšném stažení a instalaci lze spustit program pomocí START.bat.
+Po úspěšném stažení, instalaci a konfiguraci cesty lze spustit program pomocí START.bat.
 
 ## Přehled programu
 
