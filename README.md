@@ -31,11 +31,11 @@ Pokud máte k dispozici **Admin práva** a **neblokované síťové připojení*
 
 Stažení [Python](https://www.python.org/downloads/) - instalaci lze ponechat ve výchozím nastavení.
 
-Pokud je vše správně nainstalováno, lze ověřit pomocí cmd.exe příkazem:
+Je-li instalace v pořádku, ověřte ji v příkazovém řádku (cmd.exe) pomocí příkazu:
 
 >python --version
 
-Výstup z příkazového řádku by měl vypadat následovně (nezáleží na konkrétní verzi):
+Výstup v příkazovém řádku by měl vypadat takto (verze může být odlišná):
 
 ![Python verze](/assets/Python_verze.png "Python verze")
 
@@ -52,6 +52,16 @@ Výstup z příkazového řádku by měl vypadat následovně (nezáleží na ko
 ### 3. program
 
 Program lze stáhnout jako .zip nebo pomocí gitu. Umístěte jej do libovolné složky na disku a podle umístění zadejte vaši cestu k programu do konfiguračního souboru config.ini.
+
+Chcete-li ve Windows vybrat cestu ke složce, postupujte následovně:
+
+>Otevřete složku: V Průzkumníku souborů otevřete složku, jejíž cestu chcete získat.
+>
+>Klikněte do adresního řádku: Klikněte do adresního řádku v horní části okna, kde se zobrazuje cesta ke složce. Celá cesta se automaticky označí.
+>
+>Zkopírujte cestu: Stiskněte Ctrl+C nebo pravým tlačítkem myši vyberte možnost „Kopírovat“.
+>
+>Vložte cestu: Nyní můžete cestu vložit tam, kde je potřeba, například do konfiguračního souboru, pomocí Ctrl+V.
 
 Po úspěšném stažení a instalaci lze spustit program pomocí START.bat.
 
