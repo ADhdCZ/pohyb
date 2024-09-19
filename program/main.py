@@ -63,6 +63,6 @@ if __name__ == "__main__":
     mouse_thread = threading.Thread(target=move_mouse_and_press_key)
     mouse_thread.daemon = True  # Zajištění, že se vlákno ukončí s hlavním programem
     mouse_thread.start()
-
+    pyautogui.hotkey('f11')
     # Spustí zobrazení Matrixu v hlavním vlákně
     display_matrix()
